@@ -1,0 +1,4 @@
+---
+applications:
+- name: lottery-service
+  path: build/libs/lottery-0.0.1-SNAPSHOT.jar
